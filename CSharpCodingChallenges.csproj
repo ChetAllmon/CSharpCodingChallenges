@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PerfectInt928.cs" />
+    <Compile Include="ChallengeCode\AddUpToK1.cs" />
+    <Compile Include="ChallengeCode\MainClass.cs" />
+    <Compile Include="ChallengeCode\PerfectInt928.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
